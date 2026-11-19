@@ -7,7 +7,6 @@ Backend distribuido compuesto por cuatro microservicios independientes desarroll
 ## 👥 Integrantes del Equipo
 * **Benyamin Arcapio**
 * **Ignacio Álvarez**
-* *(Agregar tercer integrante si corresponde)*
 
 ---
 
